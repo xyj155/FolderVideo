@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:contentDescription="@string/normal_name"
+        android:id="@+id/studentPng"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="10dip"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher" />
+</LinearLayout>

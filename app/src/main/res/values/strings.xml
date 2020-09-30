@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bilibili</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="normal_name">学生</string>
+    <string name="normal_sex">学生hhahahahahh</string>
+    <string name="recent">主页</string>
+    <string name="vote">微博</string>
+    <string name="jobs">相册</string>
+    <string name="behavior_sample_title">com.xl.test.Listener.SampleTitleBehavior</string>
+    <string name="title">我是一个好人</string>
+    <string name="behavior_footer">com.xujun.contralayout.behavior.FooterBehavior</string>
+    <string name="behavior_footer_depend_appbar">com.xujun.contralayout.behavior.BottomBarBehavior
+    </string>
+    <string name="behavior_my_fab">com.xujun.contralayout.behavior.VerticalFabBehavior</string>
+    <string name="behavior_my_fab_scale">com.xujun.contralayout.behavior.ScaleDownShowBehavior
+    </string>
+    <string name="behavior_my_fab_horizontal">
+        com.xujun.contralayout.behavior.HorizontalFabBehavior
+    </string>
+
+    <string name="behavior_weibo_content">com.xujun.contralayout.UI.weibo.behavior.WeiboContentBehavior</string>
+    <string name="behavior_weibo_header">com.xujun.contralayout.UI.weibo.behavior.WeiboHeaderPagerBehavior</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

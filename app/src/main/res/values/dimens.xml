@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">80dip</dimen>
+    <dimen name="fab_margin">15dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="tab_height">200dp</dimen>
+    <dimen name="textsize">18sp</dimen>
+    <dimen name="end_64">64dp</dimen>
+    <dimen name="start_48">48dp</dimen>
+    <dimen name="design_fab_size_normal">40dp</dimen>
+</resources>

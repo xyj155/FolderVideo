@@ -1,0 +1,59 @@
+<resources>
+
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textSize">38sp</item>
+        <item name="android:textColor">@color/white</item>>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">#FA7199</item>
+        <item name="colorPrimaryDark">#FA7199</item><!--标题栏的颜色 -->
+
+    </style>
+    <!-- Base application theme. -->
+
+    <style name="DayTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="background">@color/white</item>
+        <item name="barTitleColor">@color/bar_title</item>
+        <item name="barColor">@color/primary</item>
+        <item name="textColor">@color/text_color</item>
+        <item name="textLight">@color/text_light</item>
+        <item name="textBright">@color/primary</item>
+        <item name="dividerColor">@color/dividerColor</item>
+    </style>
+
+
+    <style name="NightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/night_primary</item>
+        <item name="colorPrimaryDark">@color/night_primary_dark</item>
+        <item name="colorAccent">@color/night_accent</item>
+        <item name="background">@color/night_primary</item>
+        <item name="barTitleColor">@color/white</item>
+        <item name="barColor">@color/night_primary_dark</item>
+        <item name="textColor">@color/white</item>
+        <item name="textLight">@color/text_light</item>
+        <item name="textBright">@color/night_primary</item>
+        <item name="dividerColor">@color/dividerColor</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ColorTranslucentTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="ColorTranslucentTheme2" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+
+
+</resources>
+
